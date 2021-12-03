@@ -17,7 +17,7 @@ Here are the steps to browse and filter data:
 
 ​	The user can also just enter one search criteria or multiple search criteria to narrow down the search results as shown in the 	    picture below:
 
-<img src="C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\UFO\static\images\single search.PNG" style="zoom:67%;" /> <img src="C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\UFO\static\images\multiple search.PNG" style="zoom:67%;" />
+<img src="/static/images/single search.PNG" style="zoom:67%;" /> <img src="/static/images/multiple search.PNG" style="zoom:67%;" />
 
 ​	Unfortunately to reset the search criteria the user either has to reload the page or click the 'UFO Sightings' button on the top	
 
