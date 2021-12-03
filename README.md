@@ -9,17 +9,17 @@ The project is to create a HTML page and embed CSS and Java Script programming. 
 
 Here are the steps to browse and filter data:
 
-​	Once the user access the URL the site presents itself all the data from the file is loaded on the page
+  - Once the user access the URL the site presents itself all the data from the file is loaded on the page
 
-​	To filter the specific data, the user can access the 'Filter Search' criteria located at the lower left hand side
+  - To filter the specific data, the user can access the 'Filter Search' criteria located at the lower left hand side
 
-​	At this point the user can either search by Date, City, State, Country or Shape
+ - At this point the user can either search by Date, City, State, Country or Shape
 
-​	The user can also just enter one search criteria or multiple search criteria to narrow down the search results as shown in the 	    picture below:
+ - The user can also just enter one search criteria or multiple search criteria to narrow down the search results as shown in the 	    picture below:
 
 <img src="/static/images/single search.PNG" style="zoom:50%;" /> <img src="/static/images/multiple search.PNG" style="zoom:50%;" />
 
-​	Unfortunately to reset the search criteria the user either has to reload the page or click the 'UFO Sightings' button on the top	
+  - Unfortunately to reset the search criteria the user either has to reload the page or click the 'UFO Sightings' button on the top	
 
 
 
@@ -40,7 +40,7 @@ The page has a lot of drawbacks and a lot of enhancements can be done, for e.g.
 - Enhancements
 
   - Filter criteria doesn't support case-sensitive searches
-  - if the search values are less than a drop down menu should appear so user know what to select for e.g. the column 'Shape' who knows what it means and what to search for. Shape of what ?
+  - A drop down menu should appear so user know what to select for e.g. the column 'Shape' who knows what it means and what Shape to search for?
   - I only saw two two countries US and CA, I don't think a filter is needed for two values
   - Auto-Fill on search columns would be a great idea
   - 'Reset Search' button and 'Search' button would make sense to have it under the Search inputs
